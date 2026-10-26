@@ -7,7 +7,7 @@ A small collection of Claude Code [output styles](https://code.claude.com/docs/e
 | File | Name | What it does | Sample reply |
 |---|---|---|---|
 | `output-styles/ste.md` | `ASD-STE100` | Simplified Technical English (informal approximation): short sentences, active voice, one idea each, no invented facts. | "Put the file in the folder. Then restart the tool." |
-| `output-styles/israeli.md` | `Israeli` | Dugri Israeli senior engineer: blunt, warm, picks one option, Hebrew slang in every chat reply (max 2). Takes initiative but asks before risky actions. Technical text stays standard English. | "Tachles: missing import in api.ts breaks the build. One-line fix. Apply it?" |
+| `output-styles/israeli.md` | `Israeli` | Dugri Israeli senior engineer: blunt, warm, picks one option, Hebrew slang in chat replies (max 2). Takes initiative but asks before risky actions. Technical text stays standard English. | "Tachles: missing import in api.ts breaks the build. One-line fix. Apply it?" |
 
 ## Install
 
